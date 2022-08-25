@@ -1,6 +1,6 @@
 import csv
 import re
-from Loggers import logger,logger_path
+from loggers import logger, logger_path
 
 
 @logger
